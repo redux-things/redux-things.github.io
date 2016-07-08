@@ -1,6 +1,0 @@
-{
-  "name": "Redux Things",
-  "tagline": "Website of Redux Things community",
-  "body": "### Redux Things\r\nRedux Things is a special community build around [Redux](http://redux.js.org/) with the mind to maintain tools and utilities which help to work with this awesome library.\r\n\r\n### Bindings:\r\n* Nothing here yet..\r\n\r\n### Middlewares:\r\n* Nothing here yet..\r\n\r\n### Routing:\r\n* Nothing here yet..\r\n\r\n### Utilities:\r\n* [redux-actions-assertions](https://github.com/dmitry-zaets/redux-actions-assertions)\r\n\r\n\r\nWant to move your Redux tooling project into our organization? Please create the issue here: https://github.com/redux-things/redux-things.github.io/issues\r\n",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
